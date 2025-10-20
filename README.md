@@ -74,7 +74,10 @@ int main()
 ```
 
 ## OUTPUT
-    <img width="671" height="314" alt="Screenshot 2025-10-20 143140" src="https://github.com/user-attachments/assets/d6e213ba-5cb9-47ea-a5a2-ce57800eb0f3" />
+
+<img width="671" height="314" alt="Screenshot 2025-10-20 143140" src="https://github.com/user-attachments/assets/5e33ee07-1f9b-4408-ba87-352a4609a84f" />
+
+
        
 ## RESULT
 
@@ -168,6 +171,7 @@ int main()
 ## OUTPUT
 
 
+<img width="671" height="314" alt="Screenshot 2025-10-20 143140" src="https://github.com/user-attachments/assets/a785bc39-51d0-40db-a7e2-83b02c6fa4b7" />
 
 
 
